@@ -16,18 +16,22 @@
 Я превращаю смелые идеи в инновационные проекты, делающие жизнь ярче и удобнее.
 - Опыт в дизайне, разработке, видеопроизводстве и юриспруденции.
 - Свободно владею русским, английским и украинским языками, а также знаю турецкий, белорусский и польский.
+- 🧩 Стремлюсь к междисциплинарному подходу в своей работе.
 
 ---
 
 ### :hammer_and_wrench: Языки и инструменты :
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40" style="animation: pulse 1s infinite;"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40" style="animation: pulse 1s infinite;"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40" style="animation: pulse 1s infinite;"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40" style="animation: pulse 1s infinite;"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40" style="animation: pulse 1s infinite;"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40" style="animation: pulse 1s infinite;"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40" style="animation: pulse 1s infinite;"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40" style="animation: pulse 1s infinite;"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/adobe/adobe-original-wordmark.svg" title="Adobe Creative Suite" alt="Adobe" width="40" height="40" style="animation: pulse 1s infinite;"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="Blender" alt="Blender" width="40" height="40" style="animation: pulse 1s infinite;"/>&nbsp;
 </div>
 
 ---
@@ -36,6 +40,7 @@
 - 🔍 Я люблю искать инновационные решения для сложных задач.
 - 🎨 Всегда привношу креативный подход в проекты.
 - 🤝 Умею находить общий язык с разными командами и клиентами.
+- 🚀 Открыт к новым идеям и постоянно обучаюсь.
 
 ---
 
@@ -49,3 +54,11 @@
 ### :writing_hand: Публикации в блоге :
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+<style>
+  @keyframes pulse {
+    0% { transform: scale(1); }
+    50% { transform: scale(1.1); }
+    100% { transform: scale(1); }
+  }
+</style>
